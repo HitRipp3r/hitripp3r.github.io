@@ -1,0 +1,19 @@
+body {
+      background-image: url('../src/background_contato.jpg');
+}
+
+
+button{
+      margin: 5px;
+      padding: 10px 15px;
+      border: 1px solid #ED3237;
+      border-radius: 50px;
+      background: #ED3237;
+      color: #FFF;
+      transition: 0.5s;
+      cursor: pointer;
+}
+
+.art-header p{
+      padding-top: 20px;
+}
